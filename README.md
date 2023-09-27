@@ -44,15 +44,15 @@ To run the app in a development mode:
 npm run dev
 ```
 
-
 Open http://localhost:3000 in your browser to see the result. The page will automatically reload if you make changes to the code.
-Features
 
-    SignIn and SignUp: Feature-rich Sign In and Sign Up forms with social media integration.
-    Responsive Design: Works on both desktop and mobile devices.
-    Integrated with Popular Icons: Uses react-icons for a rich set of icons.
+# Features
 
-Contributing
+SignIn and SignUp: Feature-rich Sign In and Sign Up forms with social media integration.
+Responsive Design: Works on both desktop and mobile devices.
+Integrated with Popular Icons: Uses react-icons for a rich set of icons.
+
+# Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 License
