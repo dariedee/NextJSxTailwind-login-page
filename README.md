@@ -1,6 +1,6 @@
-# NextJSxTailwind-login-page
+# TypeScript-with-TailWind-CSS-Login-Page
 
-This is a login page with a link to a sign up page built in Next.js using Tailwind CSS.
+This is a login page with a link to a sign up page built in Next.js using TypeScript & Tailwind CSS.
 
 ## Prerequisites
 
