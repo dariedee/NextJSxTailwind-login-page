@@ -1,8 +1,6 @@
-# NextJS x Tailwind Login Page
+# NextJSxTailwind-login-page
 
-# [Your Project Name]
-
-[Short project description or tagline]
+This is a login page with a link to a sign up page built in Next.js using Tailwind CSS.
 
 ## Prerequisites
 
@@ -19,7 +17,7 @@ Before you begin, ensure you have met the following requirements:
     To clone this repository, run the following command:
 
     ```bash
-    git clone https://github.com/[Your-GitHub-Username]/[Your-Repository-Name].git
+    git clone https://github.com/dariedee/NextJSxTailwind-login-page.git
     ```
 
 2. **Navigate to the Directory**
@@ -27,7 +25,7 @@ Before you begin, ensure you have met the following requirements:
     Change to the directory containing the project:
 
     ```bash
-    cd [Your-Repository-Name]
+    cd NextJSxTailwind-login-page
     ```
 
 3. **Install Dependencies**
@@ -59,8 +57,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
-Acknowledgments
-
-    Special thanks to the team and contributors who have made this project possible.
-
-Remember to replace placeholders like `[Your Project Name]`, `[Your-GitHub-Username]`, and `[Your-Repository-Name]` with the appropriate values. This README is comprehensive and provides clear installation and setup instructions for anyone looking to run or contribute to the project.
