@@ -9,8 +9,8 @@ import { MdLockOutline } from "react-icons/md";
 
 export default function Home() {
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen py-2 bg-gray-100">
-      <div className="bg-white text-black rounded-2xl shadow-2xl flex w-2/3 max-w-4xl text-center overflow-hidden">
+    <div className="flex flex-col items-center justify-center min-h-screen py-2 bg-login-page">
+      <div className="backdrop-blur-sm bg-black bg-opacity-50 text-white rounded-2xl shadow-2xl flex flex-col md:flex-row w-full md:w-3/4 min-h-screen md:min-h-full max-w-4xl text-center overflow-hidden">
         {/* Sign in section */}
         <div className="w-3/5 p-5">
           <div className="text-left font-bold">
@@ -84,7 +84,7 @@ export default function Home() {
           </div>
         </div>
         {/* Sign up section */}
-        <div className="w-2/5 bg-black bg-cover bg-no-repeat">
+        <div className="w-full md:w-2/5 bg-signup-section bg-cover bg-no-repeat">
           <div className="backdrop-blur-md text-white px-8 h-full py-40">
             <h2 className="text-3xl font-semibold mb-2">Create an account</h2>
             <div className="border-2 w-10 border-white inline-block mb-2"></div>
